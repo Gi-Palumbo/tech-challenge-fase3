@@ -1,0 +1,153 @@
+{
+  "_comentario": "Mapeamento canonico das colunas da pesquisa State of Data Brasil. As 3 edicoes usam formatos de cabecalho DIFERENTES: 2023 vem como tupla, ex \"('P2_h ', 'Faixa salarial')\", e 2024/2025 vem como texto plano, ex \"2.h_faixa_salarial\". Os dois formatos sao normalizados para um codigo pontilhado (P2_h -> 2.h), o que permite mapear por codigo de questao. Os codigos das secoes 1 e 2 sao estaveis entre as edicoes, mas a secao 4 (tecnologias) foi renumerada em 2025 e a questao de modelo de trabalho mudou de 2.r para 2.q. Por isso cada campo declara o codigo POR ANO, com null quando a questao nao existe naquela edicao. Todos os codigos abaixo foram verificados contra os CSVs reais.",
+  "campos": {
+    "idade": {
+      "codigos": {"2023": "1.a", "2024": "1.a", "2025": "1.a"},
+      "tipo": "inteiro"
+    },
+    "genero": {
+      "codigos": {"2023": "1.b", "2024": "1.b", "2025": "1.b"},
+      "tipo": "categoria_genero"
+    },
+    "cor_raca_etnia": {
+      "codigos": {"2023": "1.c", "2024": "1.c", "2025": "1.c"},
+      "tipo": "texto"
+    },
+    "pcd": {
+      "codigos": {"2023": "1.d", "2024": "1.d", "2025": "1.d"},
+      "tipo": "texto"
+    },
+    "estado_moradia": {
+      "codigos": {"2023": "1.i", "2024": "1.i", "2025": "1.i"},
+      "tipo": "texto"
+    },
+    "uf_moradia": {
+      "codigos": {"2023": "1.i.1", "2024": "1.i.1", "2025": "1.i.1"},
+      "tipo": "texto"
+    },
+    "regiao": {
+      "_nota": "A pesquisa ja entrega a regiao pronta nas 3 edicoes. Usamos essa coluna e mantemos a derivacao a partir da UF apenas como fallback.",
+      "codigos": {"2023": "1.i.2", "2024": "1.i.2", "2025": "1.i.2"},
+      "tipo": "texto"
+    },
+    "nivel_ensino": {
+      "codigos": {"2023": "1.l", "2024": "1.l", "2025": "1.l"},
+      "tipo": "texto"
+    },
+    "area_formacao": {
+      "codigos": {"2023": "1.m", "2024": "1.m", "2025": "1.m"},
+      "tipo": "texto"
+    },
+    "situacao_trabalho": {
+      "codigos": {"2023": "2.a", "2024": "2.a", "2025": "2.a"},
+      "tipo": "texto"
+    },
+    "setor_empresa": {
+      "codigos": {"2023": "2.b", "2024": "2.b", "2025": "2.b"},
+      "tipo": "texto"
+    },
+    "porte_empresa": {
+      "codigos": {"2023": "2.c", "2024": "2.c", "2025": "2.c"},
+      "tipo": "texto"
+    },
+    "cargo": {
+      "codigos": {"2023": "2.f", "2024": "2.f", "2025": "2.f"},
+      "tipo": "texto"
+    },
+    "senioridade": {
+      "codigos": {"2023": "2.g", "2024": "2.g", "2025": "2.g"},
+      "tipo": "categoria_senioridade"
+    },
+    "faixa_salarial": {
+      "codigos": {"2023": "2.h", "2024": "2.h", "2025": "2.h"},
+      "tipo": "faixa_salarial"
+    },
+    "tempo_experiencia_dados": {
+      "codigos": {"2023": "2.i", "2024": "2.i", "2025": "2.i"},
+      "tipo": "texto"
+    },
+    "tempo_experiencia_ti": {
+      "codigos": {"2023": "2.j", "2024": "2.j", "2025": "2.j"},
+      "tipo": "texto"
+    },
+    "forma_trabalho": {
+      "_nota": "Renumerada em 2025: era 2.r em 2023/2024 e passou a 2.q.",
+      "codigos": {"2023": "2.r", "2024": "2.r", "2025": "2.q"},
+      "tipo": "categoria_forma_trabalho"
+    },
+    "forma_trabalho_ideal": {
+      "codigos": {"2023": "2.s", "2024": "2.s", "2025": "2.r"},
+      "tipo": "categoria_forma_trabalho"
+    }
+  },
+  "_comentario_binarios": "Campos booleanos gravados de forma inconsistente entre edicoes: 0/1 em 2023 e 2025, TRUE/FALSE em 2024.",
+  "binarios": {
+    "satisfacao_empresa": {
+      "codigos": {"2023": "2.k", "2024": "2.k", "2025": "2.k"}
+    },
+    "atua_como_gestor": {
+      "_nota": "Usado para completar a senioridade: a pesquisa nao pergunta o nivel a quem e gestor, entao esse campo vem vazio por desenho para 2.668 respondentes.",
+      "codigos": {"2023": "2.d", "2024": "2.d", "2025": "2.d"}
+    }
+  },
+  "_comentario_tecnologias": "Questoes de multipla escolha, gravadas como texto separado por virgula. Atencao: varios nomes de tecnologia contem barra (SAS/Stata, Salesforce/Einstein Analytics) ou parenteses com virgula dentro (Amazon Web Services (AWS)), portanto a quebra e feita SOMENTE por virgula fora de parenteses. A secao 4 foi renumerada em 2025. A questao de linguagens usadas no dia a dia deixou de existir em 2025, por isso 'linguagem_preferida' e a unica serie de linguagem comparavel entre as 3 edicoes.",
+  "tecnologias": {
+    "linguagem_uso": {
+      "codigos": {"2023": "4.d", "2024": "4.d", "2025": null}
+    },
+    "linguagem_preferida": {
+      "codigos": {"2023": "4.f", "2024": "4.f", "2025": "4.c"}
+    },
+    "banco_dados": {
+      "codigos": {"2023": "4.g", "2024": "4.g", "2025": "4.d"}
+    },
+    "cloud_uso": {
+      "_nota": "Em 2023 o rotulo desta coluna diz 'qual sua Cloud preferida?', mas os valores sao multivalorados: e a questao de cloud usada no dia a dia, equivalente a 4.h de 2024 e 4.e de 2025.",
+      "codigos": {"2023": "4.h", "2024": "4.h", "2025": "4.e"}
+    },
+    "cloud_preferida": {
+      "codigos": {"2023": "4.i", "2024": "4.i", "2025": "4.f"}
+    },
+    "ferramenta_bi": {
+      "codigos": {"2023": "4.j", "2024": "4.j", "2025": "4.g"}
+    }
+  },
+  "_comentario_ia": "A questao de uso de IA e de multipla escolha, mas o texto de cada alternativa contem virgulas fora de parenteses (ex: 'Utilizo apenas solucoes gratuitas (como por exemplo o ChatGPT), para me ajudar a ser mais produtivo'). Por isso NAO pode ser quebrada por virgula: e classificada por presenca de trecho no texto.",
+  "ia": {
+    "uso_ia_pessoal": {
+      "codigos": {"2023": "4.m", "2024": "4.m", "2025": "4.j"},
+      "tipo": "classificacao_ia"
+    },
+    "tipo_uso_ia_empresa": {
+      "codigos": {"2023": "4.l", "2024": "4.l", "2025": "4.i"},
+      "tipo": "texto"
+    },
+    "ia_prioridade_empresa": {
+      "codigos": {"2023": "3.e", "2024": "3.e", "2025": "3.e"},
+      "tipo": "texto"
+    }
+  },
+  "_comentario_regiao": "Fallback caso a coluna de regiao (1.i.2) esteja ausente ou vazia.",
+  "regiao_por_uf": {
+    "AC": "Norte", "AP": "Norte", "AM": "Norte", "PA": "Norte", "RO": "Norte", "RR": "Norte", "TO": "Norte",
+    "AL": "Nordeste", "BA": "Nordeste", "CE": "Nordeste", "MA": "Nordeste", "PB": "Nordeste", "PE": "Nordeste", "PI": "Nordeste", "RN": "Nordeste", "SE": "Nordeste",
+    "DF": "Centro-oeste", "GO": "Centro-oeste", "MT": "Centro-oeste", "MS": "Centro-oeste",
+    "ES": "Sudeste", "MG": "Sudeste", "RJ": "Sudeste", "SP": "Sudeste",
+    "PR": "Sul", "RS": "Sul", "SC": "Sul"
+  },
+  "_comentario_edicoes": "As 3 ultimas edicoes publicadas no Kaggle pela Data Hackers. O campo 'ano' e o primeiro ano do titulo da edicao e define o prefixo esperado na camada Bronze (bronze/state_of_data_{ano}/) e o ano que deve constar no nome do arquivo em data/raw.",
+  "edicoes": [
+    {"ano": 2023, "titulo_kaggle": "State of Data Brazil 2023-2024", "formato_cabecalho": "tupla"},
+    {"ano": 2024, "titulo_kaggle": "State of Data Brazil 2024-2025", "formato_cabecalho": "plano"},
+    {"ano": 2025, "titulo_kaggle": "State of Data Brazil 2025-2026", "formato_cabecalho": "plano"}
+  ],
+  "campos_criticos": [
+    "campos.genero",
+    "campos.uf_moradia",
+    "campos.regiao",
+    "campos.cargo",
+    "campos.senioridade",
+    "campos.faixa_salarial",
+    "campos.forma_trabalho"
+  ]
+}

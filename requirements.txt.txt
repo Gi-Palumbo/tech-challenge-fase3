@@ -1,0 +1,10 @@
+# Dependencias do caminho LOCAL (exploracao, pipeline em pandas e graficos).
+# Os Glue Jobs rodam na AWS e nao usam este arquivo: o ambiente do Glue 4.0 ja
+# traz PySpark 3.3 e Python 3.10.
+pandas>=2.0
+matplotlib>=3.8
+
+# Opcionais:
+# pyarrow>=15.0   # gravar/ler Parquet localmente (mesmo formato da Silver na AWS)
+# boto3>=1.34     # upload da Bronze para o S3 via script Python
+# kaggle>=1.6     # download das bases via linha de comando

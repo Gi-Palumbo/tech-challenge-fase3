@@ -1,0 +1,483 @@
+﻿ano,recorte,dimensao_1,dimensao_2,respondentes,salario_mediano_interpolado,salario_mediano,salario_medio,p25,p75,amostra_suficiente
+2023,cargo,,,896,16193.722891566265,18000.5,17519.494977678572,10000.5,22500.5,True
+2023,cargo,Data Product Manager/ Product Manager (PM/APM/DPM/GPM/PO),,81,11481.611111111111,10000.5,11346.17901234568,10000.5,14000.5,True
+2023,cargo,Engenheiro de Machine Learning/ML Engineer/AI Engineer,,75,10636.704545454546,10000.5,12500.5,7000.5,16000.5,True
+2023,cargo,DBA/Administrador de Banco de Dados,,20,10222.666666666668,10000.5,11100.525,9250.5,14000.5,False
+2023,cargo,Engenheiro de Dados/Arquiteto de Dados/Data Engineer/Data Architect,,684,10116.873015873016,10000.5,11586.103801169591,7000.5,14000.5,True
+2023,cargo,Analytics Engineer,,139,9842.644736842105,10000.5,11040.068345323742,7000.5,14000.5,True
+2023,cargo,Cientista de Dados/Data Scientist,,687,9606.367788461539,10000.5,10532.526200873363,7000.5,14000.5,True
+2023,cargo,Economista,,5,9000.75,10000.5,11200.5,7000.5,10000.5,False
+2023,cargo,Professor/Pesquisador,,28,8667.5,10000.5,10804.07142857143,3500.5,14000.5,False
+2023,cargo,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,,105,7533.566666666667,7000.5,9729.076190476191,5000.5,14000.5,True
+2023,cargo,Estatístico,,21,7500.25,7000.5,10286.190476190477,5000.5,18000.5,False
+2023,cargo,Outras Engenharias (não inclui dev),,31,7000.5,7000.5,8516.612903225807,3000.5,10000.5,True
+2023,cargo,Analista de Negócios/Business Analyst,,195,6500.75,7000.5,7164.602564102564,5000.5,10000.5,True
+2023,cargo,Analista de Dados/Data Analyst,,907,6044.188271604939,7000.5,7137.765711135612,3500.5,10000.5,True
+2023,cargo,Analista de BI/BI Analyst,,506,5338.460431654676,5000.5,6244.568181818182,3500.5,7000.5,True
+2023,cargo,Analista de Inteligência de Mercado/Market Intelligence,,39,4778.388888888889,5000.5,5603.0641025641025,2500.5,7000.5,True
+2023,cargo,Outra Opção,,262,3948.7692307692305,3500.5,6265.761450381679,2500.5,7000.5,True
+2023,cargo,Analista de Suporte/Analista Técnico,,72,3556.0,3500.5,4389.381944444444,2500.5,5000.5,True
+2023,cargo_senioridade,Estatístico,Senior,5,19000.25,18000.5,21500.5,18000.5,22500.5,False
+2023,cargo_senioridade,Engenheiro de Machine Learning/ML Engineer/AI Engineer,Senior,29,16286.642857142857,18000.5,18241.896551724138,14000.5,22500.5,False
+2023,cargo_senioridade,,Gestao,896,16193.722891566265,18000.5,17519.494977678572,10000.5,22500.5,True
+2023,cargo_senioridade,Professor/Pesquisador,Senior,13,14500.375,14000.5,17577.46153846154,10000.5,22500.5,False
+2023,cargo_senioridade,Engenheiro de Dados/Arquiteto de Dados/Data Engineer/Data Architect,Senior,325,14130.097222222223,14000.5,16211.284615384615,10000.5,18000.5,True
+2023,cargo_senioridade,Cientista de Dados/Data Scientist,Senior,272,14019.18691588785,14000.5,15487.645220588236,10000.5,18000.5,True
+2023,cargo_senioridade,Analytics Engineer,Senior,69,13048.357142857143,14000.5,14486.007246376812,10000.5,18000.5,True
+2023,cargo_senioridade,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,Senior,51,12770.038461538461,14000.5,14304.441176470587,10000.5,18000.5,True
+2023,cargo_senioridade,Data Product Manager/ Product Manager (PM/APM/DPM/GPM/PO),Senior,55,12667.5,14000.5,12645.954545454546,10000.5,14000.5,True
+2023,cargo_senioridade,Economista,Senior,2,12000.0,18750.5,18750.5,14375.5,23125.5,False
+2023,cargo_senioridade,DBA/Administrador de Banco de Dados,Senior,13,11714.357142857143,10000.5,14154.384615384615,10000.5,14000.5,False
+2023,cargo_senioridade,Outra Opção,Senior,67,11125.21875,10000.5,12127.388059701492,7000.5,14000.5,True
+2023,cargo_senioridade,Outras Engenharias (não inclui dev),Senior,12,11000.25,10000.5,13958.833333333334,9250.5,19125.5,False
+2023,cargo_senioridade,Analista de Dados/Data Analyst,Senior,270,10241.574468085106,10000.5,11070.872222222222,10000.5,14000.5,True
+2023,cargo_senioridade,Engenheiro de Machine Learning/ML Engineer/AI Engineer,Pleno,30,9846.692307692309,10000.5,11150.5,7000.5,13000.5,True
+2023,cargo_senioridade,Analista de Inteligência de Mercado/Market Intelligence,Senior,8,9600.6,10000.5,10563.0,9250.5,10000.5,False
+2023,cargo_senioridade,Data Product Manager/ Product Manager (PM/APM/DPM/GPM/PO),Pleno,18,9500.625,10000.5,9583.833333333334,7000.5,10000.5,False
+2023,cargo_senioridade,Analista de BI/BI Analyst,Senior,130,9164.345454545455,10000.5,10069.73076923077,7000.5,10000.5,True
+2023,cargo_senioridade,Analista de Negócios/Business Analyst,Senior,83,9056.291666666666,10000.5,9627.006024096385,7000.5,10000.5,True
+2023,cargo_senioridade,Estatístico,Pleno,9,8667.5,10000.5,9778.277777777777,5000.5,10000.5,False
+2023,cargo_senioridade,Cientista de Dados/Data Scientist,Pleno,250,8509.963636363636,10000.5,8860.5,7000.5,10000.5,True
+2023,cargo_senioridade,Engenheiro de Dados/Arquiteto de Dados/Data Engineer/Data Architect,Pleno,234,8180.730337078651,10000.5,8966.311965811965,7000.5,10000.5,True
+2023,cargo_senioridade,Economista,Pleno,2,8000.0,8500.5,8500.5,7750.5,9250.5,False
+2023,cargo_senioridade,Analytics Engineer,Pleno,52,7700.15,7000.5,8875.5,7000.5,10000.5,True
+2023,cargo_senioridade,Analista de Suporte/Analista Técnico,Senior,15,7250.375,7000.5,7500.5,5000.5,10000.5,False
+2023,cargo_senioridade,DBA/Administrador de Banco de Dados,Pleno,5,7000.5,7000.5,6800.5,3500.5,10000.5,False
+2023,cargo_senioridade,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,Pleno,26,6500.75,7000.5,7519.7307692307695,5000.5,9250.5,False
+2023,cargo_senioridade,Outras Engenharias (não inclui dev),Pleno,9,6250.875,7000.5,5500.444444444444,3500.5,7000.5,False
+2023,cargo_senioridade,Analista de Dados/Data Analyst,Pleno,360,6127.063063063063,7000.5,6761.6125,5000.5,7000.5,True
+2023,cargo_senioridade,Analista de Negócios/Business Analyst,Pleno,69,5869.630434782609,5000.5,6355.572463768116,5000.5,7000.5,True
+2023,cargo_senioridade,Analista de BI/BI Analyst,Pleno,200,5623.717647058824,5000.5,6405.5025,5000.5,7000.5,True
+2023,cargo_senioridade,Analista de Inteligência de Mercado/Market Intelligence,Pleno,15,5500.25,5000.5,5700.5,5000.5,7000.5,False
+2023,cargo_senioridade,Data Product Manager/ Product Manager (PM/APM/DPM/GPM/PO),Junior,8,5000.5,5000.5,6375.5,4625.5,5500.5,False
+2023,cargo_senioridade,Engenheiro de Machine Learning/ML Engineer/AI Engineer,Junior,16,4800.6,5000.5,4625.46875,1500.5,7000.5,False
+2023,cargo_senioridade,Cientista de Dados/Data Scientist,Junior,165,4558.413461538462,5000.5,4897.460606060606,2500.5,7000.5,True
+2023,cargo_senioridade,Professor/Pesquisador,Pleno,9,4500.75,5000.5,5111.555555555556,3500.5,7000.5,False
+2023,cargo_senioridade,Analytics Engineer,Junior,18,4400.8,5000.5,4083.8333333333335,2750.5,5000.5,False
+2023,cargo_senioridade,Outra Opção,Pleno,73,4369.236842105263,5000.5,5486.801369863014,2500.5,7000.5,True
+2023,cargo_senioridade,Engenheiro de Dados/Arquiteto de Dados/Data Engineer/Data Architect,Junior,125,4185.118421052632,5000.5,4464.884,2500.5,5000.5,True
+2023,cargo_senioridade,Analista de Suporte/Analista Técnico,Pleno,31,3833.5,3500.5,4306.935483870968,3000.5,5000.5,True
+2023,cargo_senioridade,Analista de Dados/Data Analyst,Junior,277,3573.008064516129,3500.5,3792.9151624548736,2500.5,5000.5,True
+2023,cargo_senioridade,Analista de Negócios/Business Analyst,Junior,43,3562.9375,3500.5,3709.8023255813955,2500.5,5000.5,True
+2023,cargo_senioridade,Analista de BI/BI Analyst,Junior,176,3000.0,3000.5,3236.284090909091,1500.5,5000.5,True
+2023,cargo_senioridade,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,Junior,28,3000.0,3000.5,3446.910714285714,2500.5,5000.5,False
+2023,cargo_senioridade,Outra Opção,Junior,122,2788.090909090909,2500.5,3512.7704918032787,1500.5,4625.5,True
+2023,cargo_senioridade,Outras Engenharias (não inclui dev),Junior,10,2667.0,2500.5,4700.5,1750.5,8750.5,False
+2023,cargo_senioridade,Analista de Suporte/Analista Técnico,Junior,26,2583.75,2500.5,2692.8076923076924,2500.5,3500.5,False
+2023,cargo_senioridade,Analista de Inteligência de Mercado/Market Intelligence,Junior,16,2429.142857142857,2500.5,3031.75,1500.5,2750.5,False
+2023,cargo_senioridade,DBA/Administrador de Banco de Dados,Junior,2,2000.0,2000.5,2000.5,1750.5,2250.5,False
+2023,cargo_senioridade,Professor/Pesquisador,Junior,6,2000.0,2500.5,4667.166666666667,1500.5,8375.5,False
+2023,cargo_senioridade,Estatístico,Junior,7,1833.5,1500.5,2929.0,1500.5,4250.5,False
+2023,cargo_senioridade,Economista,Junior,1,1500.5,1500.5,1500.5,1500.5,1500.5,False
+2023,forma_trabalho,Remoto,,2201,9538.783396946565,10000.5,11210.888232621535,5000.5,14000.5,True
+2023,forma_trabalho,Hibrido,,1762,8823.41645244216,10000.5,10964.751986379115,5000.5,14000.5,True
+2023,forma_trabalho,Presencial,,790,4919.795031055901,5000.5,7016.948734177216,2500.5,10000.5,True
+2023,forma_trabalho_senioridade,Hibrido,Gestao,404,17278.458333333332,18000.5,18788.89108910891,14000.5,22500.5,True
+2023,forma_trabalho_senioridade,Remoto,Gestao,337,17103.28846153846,18000.5,18194.88575667656,14000.5,22500.5,True
+2023,forma_trabalho_senioridade,Remoto,Senior,796,12944.764,14000.5,14606.668341708542,10000.5,18000.5,True
+2023,forma_trabalho_senioridade,Hibrido,Senior,495,11313.60447761194,10000.5,12769.192929292929,10000.5,14000.5,True
+2023,forma_trabalho_senioridade,Presencial,Gestao,155,10579.302631578947,10000.5,12742.445161290323,7000.5,18000.5,True
+2023,forma_trabalho_senioridade,Presencial,Senior,128,9000.75,10000.5,10305.1875,5000.5,14000.5,True
+2023,forma_trabalho_senioridade,Remoto,Pleno,673,7199.353403141362,7000.5,7926.205794947994,5000.5,10000.5,True
+2023,forma_trabalho_senioridade,Hibrido,Pleno,495,6934.356617647059,7000.5,7737.872727272727,5000.5,10000.5,True
+2023,forma_trabalho_senioridade,Presencial,Pleno,224,5000.5,5000.5,5895.589285714285,3500.5,7000.5,True
+2023,forma_trabalho_senioridade,Hibrido,Junior,368,3826.2608695652175,3500.5,4288.542119565217,2500.5,5000.5,True
+2023,forma_trabalho_senioridade,Remoto,Junior,395,3746.6304347826085,3500.5,4005.6810126582277,2500.5,5000.5,True
+2023,forma_trabalho_senioridade,Presencial,Junior,283,2824.1197183098593,2500.5,3281.393992932862,1500.5,5000.5,True
+2023,genero,Masculino,,3622,8830.498079385403,10000.5,10872.137217007179,5000.5,14000.5,True
+2023,genero,Nao informado,,13,7750.125,7000.5,14577.461538461539,7000.5,14000.5,False
+2023,genero,Feminino,,1111,7404.921965317919,7000.5,8935.24392439244,5000.5,10000.5,True
+2023,genero,Outro,,7,6500.75,7000.5,6143.357142857143,3750.5,8500.5,False
+2023,nivel_ensino,Doutorado ou Phd,,184,13024.0,14000.5,14764.103260869566,10000.5,18000.5,True
+2023,nivel_ensino,Mestrado,,606,11842.144736842105,10000.5,14083.021452145214,7000.5,18000.5,True
+2023,nivel_ensino,Pós-graduação,,1701,9949.35,10000.5,11786.221046443268,7000.5,14000.5,True
+2023,nivel_ensino,Graduação/Bacharelado,,1641,7280.515564202335,7000.5,9184.841560024375,5000.5,10000.5,True
+2023,nivel_ensino,Prefiro não informar,,6,6000.0,7500.5,10167.083333333334,5000.5,16000.5,False
+2023,nivel_ensino,Não tenho graduação formal,,83,5437.78125,5000.5,8831.831325301206,2500.5,10000.5,True
+2023,nivel_ensino,Estudante de Graduação,,532,3308.3846153846152,3500.5,4460.169172932331,2250.5,5000.5,True
+2023,regiao,Nao informado,,103,16462.423076923078,18000.5,18748.106796116506,10000.5,27500.5,True
+2023,regiao,Sudeste,,2890,8981.88679245283,10000.5,10905.367474048442,5000.5,14000.5,True
+2023,regiao,Centro-oeste,,304,8546.318181818182,10000.5,10299.84375,5000.5,14000.5,True
+2023,regiao,Sul,,886,7609.951219512195,7000.5,9479.622460496614,5000.5,14000.5,True
+2023,regiao,Norte,,69,6643.535714285715,7000.5,7877.297101449275,3500.5,10000.5,True
+2023,regiao,Nordeste,,501,6334.166666666667,7000.5,8018.461077844311,3500.5,10000.5,True
+2023,regiao_senioridade,Nao informado,Gestao,26,26000.8,27500.5,25077.48076923077,18000.5,35000.5,False
+2023,regiao_senioridade,Nao informado,Senior,33,22500.5,22500.5,23364.227272727272,14000.5,35000.5,True
+2023,regiao_senioridade,Sudeste,Gestao,592,17367.325,18000.5,18756.440033783783,14000.5,22500.5,True
+2023,regiao_senioridade,Centro-oeste,Gestao,57,15000.25,14000.5,15509.271929824561,10000.5,18000.5,True
+2023,regiao_senioridade,Nao informado,Pleno,24,15000.25,14000.5,15688.0,10000.5,18000.5,False
+2023,regiao_senioridade,Sul,Gestao,139,14000.5,14000.5,15162.384892086331,10000.5,18000.5,True
+2023,regiao_senioridade,Centro-oeste,Senior,91,12300.925,14000.5,14242.263736263736,10000.5,18000.5,True
+2023,regiao_senioridade,Nordeste,Senior,121,12158.855263157895,14000.5,13405.47520661157,10000.5,14000.5,True
+2023,regiao_senioridade,Sudeste,Senior,901,11981.986486486487,10000.5,13323.478912319644,10000.5,14000.5,True
+2023,regiao_senioridade,Norte,Gestao,11,11500.125,10000.5,14455.045454545454,10000.5,16000.5,False
+2023,regiao_senioridade,Sul,Senior,263,11414.287878787878,10000.5,13124.087452471484,10000.5,14000.5,True
+2023,regiao_senioridade,Nordeste,Gestao,71,10833.625,10000.5,11141.338028169013,5000.5,14000.5,True
+2023,regiao_senioridade,Norte,Senior,10,10000.5,10000.5,12150.5,7750.5,13000.5,False
+2023,regiao_senioridade,Centro-oeste,Pleno,80,7263.526315789473,7000.5,7994.25,5000.5,10000.5,True
+2023,regiao_senioridade,Sudeste,Pleno,807,6875.5625,7000.5,7572.37112763321,5000.5,10000.5,True
+2023,regiao_senioridade,Sul,Pleno,286,6472.986111111111,7000.5,7234.765734265734,5000.5,10000.5,True
+2023,regiao_senioridade,Norte,Pleno,27,6334.166666666667,7000.5,6222.722222222223,5000.5,7000.5,False
+2023,regiao_senioridade,Nordeste,Pleno,168,6059.794117647059,7000.5,6673.116071428572,5000.5,10000.5,True
+2023,regiao_senioridade,Nao informado,Junior,20,6000.0,6000.5,6575.45,3000.5,10000.5,False
+2023,regiao_senioridade,Norte,Junior,21,4167.583333333333,5000.5,4524.261904761905,2500.5,5000.5,False
+2023,regiao_senioridade,Sul,Junior,198,3700.3,3500.5,3891.89898989899,2500.5,5000.5,True
+2023,regiao_senioridade,Sudeste,Junior,590,3464.8214285714284,3500.5,3893.7991525423727,2500.5,5000.5,True
+2023,regiao_senioridade,Centro-oeste,Junior,76,3417.25,3500.5,4099.184210526316,2500.5,5000.5,True
+2023,regiao_senioridade,Nordeste,Junior,141,3097.0576923076924,3500.5,3426.0141843971633,1500.5,5000.5,True
+2023,senioridade,Gestao,,896,16193.722891566265,18000.5,17519.494977678572,10000.5,22500.5,True
+2023,senioridade,Senior,,1419,11956.532608695652,10000.5,13577.676180408738,10000.5,14000.5,True
+2023,senioridade,Pleno,,1392,6775.680216802168,7000.5,7532.468031609195,5000.5,10000.5,True
+2023,senioridade,Junior,,1046,3492.8153846153846,3500.5,3909.2370936902485,2500.5,5000.5,True
+2023,setor_empresa,Setor Farmaceutico,,29,10615.73076923077,10000.5,11155.672413793103,10000.5,14000.5,False
+2023,setor_empresa,Internet/Ecommerce,,129,10500.375,10000.5,12318.337209302326,7000.5,14000.5,True
+2023,setor_empresa,Varejo,,392,9822.326732673268,10000.5,11217.34693877551,5000.5,14000.5,True
+2023,setor_empresa,Finanças ou Bancos,,927,9545.256696428572,10000.5,11300.398058252427,5000.5,14000.5,True
+2023,setor_empresa,Entretenimento ou Esportes,,59,9385.26923076923,10000.5,12042.881355932202,5000.5,14000.5,True
+2023,setor_empresa,Tecnologia/Fábrica de Software,,857,8793.905172413793,10000.5,11190.180863477246,5000.5,14000.5,True
+2023,setor_empresa,Seguros ou Previdência,,68,8750.8125,10000.5,10676.970588235294,5000.5,14000.5,True
+2023,setor_empresa,Indústria,,313,8575.85625,10000.5,9832.773162939297,5000.5,14000.5,True
+2023,setor_empresa,Área da Saúde,,201,8264.092105263158,10000.5,10095.029850746268,5000.5,14000.5,True
+2023,setor_empresa,Área de Consultoria,,389,7736.973684210527,7000.5,9916.949871465296,5000.5,14000.5,True
+2023,setor_empresa,Setor Imobiliário/ Construção Civil,,66,7428.857142857143,7000.5,9644.439393939394,3500.5,14000.5,True
+2023,setor_empresa,Educação,,209,7414.086206896552,7000.5,9667.973684210527,5000.5,10000.5,True
+2023,setor_empresa,Setor Público,,174,7300.35,7000.5,9968.8908045977,5000.5,13000.5,True
+2023,setor_empresa,Agronegócios,,92,7286.071428571428,7000.5,8739.630434782608,5000.5,11000.5,True
+2023,setor_empresa,Outra Opção,,344,7265.673469387755,7000.5,9635.677325581395,3500.5,14000.5,True
+2023,setor_empresa,Setor de Energia,,84,7111.555555555556,7000.5,9607.642857142857,5000.5,14000.5,True
+2023,setor_empresa,Setor Alimentício,,109,6929.107142857143,7000.5,8995.908256880733,5000.5,14000.5,True
+2023,setor_empresa,Telecomunicação,,115,6563.21875,7000.5,8204.847826086956,3500.5,10000.5,True
+2023,setor_empresa,Filantropia/ONG's,,28,6500.75,7000.5,7875.5,3500.5,10000.5,False
+2023,setor_empresa,Setor Automotivo,,53,6091.863636363636,7000.5,7745.7830188679245,3500.5,10000.5,True
+2023,setor_empresa,Marketing,,115,5740.87037037037,5000.5,7735.282608695652,3500.5,10000.5,True
+2023,tempo_experiencia_dados,Mais de 10 anos,,557,16529.603448275862,18000.5,18627.10592459605,10000.5,22500.5,True
+2023,tempo_experiencia_dados,de 7 a 10 anos,,429,14273.935897435898,14000.5,15879.304195804196,10000.5,18000.5,True
+2023,tempo_experiencia_dados,de 4 a 6 anos,,463,12339.625,14000.5,13824.480561555076,10000.5,18000.5,True
+2023,tempo_experiencia_dados,de 5 a 6 anos,,356,11655.258620689656,10000.5,12947.136235955057,10000.5,14000.5,True
+2023,tempo_experiencia_dados,de 3 a 4 anos,,1109,8622.693277310924,10000.5,9751.628944995491,7000.5,10000.5,True
+2023,tempo_experiencia_dados,de 1 a 2 anos,,1201,5279.562678062678,5000.5,6181.221065778518,3500.5,7000.5,True
+2023,tempo_experiencia_dados,Não tenho experiência na área de dados,,162,4118.588235294118,5000.5,6457.277777777777,2500.5,7000.5,True
+2023,tempo_experiencia_dados,Menos de 1 ano,,476,3254.2676056338028,3500.5,4320.8634453781515,1500.5,5000.5,True
+2024,cargo,,,1045,18039.51463414634,18000.5,19590.485167464114,14000.5,27500.5,True
+2024,cargo,Arquiteto de Dados/Data Architect,,48,14667.0,14000.5,15875.5,14000.5,18000.5,True
+2024,cargo,Engenheiro de Machine Learning/ML Engineer/AI Engineer,,103,12667.5,14000.5,15597.611650485436,10000.5,22500.5,True
+2024,cargo,Data Product Manager/ Product Manager (PM/APM/DPM/GPM/PO),,80,11200.2,10000.5,11931.75,10000.5,14000.5,True
+2024,cargo,Cientista de Dados/Data Scientist,,687,10841.873762376237,10000.5,11822.192139737992,7000.5,14000.5,True
+2024,cargo,Engenheiro de Dados/Data Engineer/Data Architect,,613,10728.578804347826,10000.5,12762.334420880914,7000.5,14000.5,True
+2024,cargo,Analytics Engineer,,228,9754.947368421053,10000.5,10873.307017543859,7000.5,14000.5,True
+2024,cargo,Outras Engenharias (não inclui dev),,29,9429.214285714286,10000.5,10397.051724137931,5000.5,14000.5,False
+2024,cargo,Analista de Negócios/Business Analyst,,184,7935.516129032258,7000.5,8910.826086956522,5000.5,10000.5,True
+2024,cargo,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,,122,7565.434782608696,7000.5,9234.102459016394,3500.5,10000.5,True
+2024,cargo,Estatístico,,17,7000.5,7000.5,7647.558823529412,5000.5,10000.5,False
+2024,cargo,Professor/Pesquisador,,21,7000.5,7000.5,7690.952380952381,5000.5,10000.5,False
+2024,cargo,Analista de Dados/Data Analyst,,957,6936.806372549019,7000.5,7997.364681295716,5000.5,10000.5,True
+2024,cargo,Analista de BI/BI Analyst,,396,5689.475728155339,5000.5,6511.854797979798,3500.5,10000.5,True
+2024,cargo,Outra Opção,,254,3900.1,3500.5,6862.692913385827,2500.5,10000.5,True
+2024,cargo,Analista de Suporte/Analista Técnico,,79,3772.9545454545455,3500.5,5335.93670886076,2500.5,5000.5,True
+2024,cargo_senioridade,,Gestao,1045,18039.51463414634,18000.5,19590.485167464114,14000.5,27500.5,True
+2024,cargo_senioridade,Engenheiro de Machine Learning/ML Engineer/AI Engineer,Senior,58,17143.571428571428,18000.5,19931.577586206895,14000.5,22500.5,True
+2024,cargo_senioridade,Arquiteto de Dados/Data Architect,Senior,37,15473.815789473683,14000.5,17703.202702702703,14000.5,18000.5,True
+2024,cargo_senioridade,Engenheiro de Dados/Data Engineer/Data Architect,Senior,310,14667.0,14000.5,17323.101612903225,10000.5,18000.5,True
+2024,cargo_senioridade,Cientista de Dados/Data Scientist,Senior,339,14541.718045112782,14000.5,15861.865781710914,12000.5,18000.5,True
+2024,cargo_senioridade,Analytics Engineer,Senior,115,13487.807692307691,14000.5,14261.369565217392,10000.5,18000.5,True
+2024,cargo_senioridade,Outras Engenharias (não inclui dev),Senior,9,12500.875,14000.5,13278.277777777777,10000.5,14000.5,False
+2024,cargo_senioridade,Data Product Manager/ Product Manager (PM/APM/DPM/GPM/PO),Senior,61,12316.71052631579,14000.5,13164.434426229509,10000.5,14000.5,True
+2024,cargo_senioridade,Outra Opção,Senior,60,12000.0,12000.5,14400.525,10000.5,18000.5,True
+2024,cargo_senioridade,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,Senior,44,11666.75,10000.5,13875.511363636364,9250.5,14000.5,True
+2024,cargo_senioridade,Analista de Dados/Data Analyst,Senior,322,10914.557142857142,10000.5,12003.608695652174,10000.5,14000.5,True
+2024,cargo_senioridade,Analista de Negócios/Business Analyst,Senior,83,10650.3375,10000.5,11994.475903614459,10000.5,14000.5,True
+2024,cargo_senioridade,Estatístico,Senior,5,10500.375,10000.5,12500.5,10000.5,10000.5,False
+2024,cargo_senioridade,Outras Engenharias (não inclui dev),Pleno,14,10000.5,10000.5,10643.357142857143,7000.5,14000.5,False
+2024,cargo_senioridade,Analista de BI/BI Analyst,Senior,102,9840.54,10000.5,10270.107843137255,7000.5,10000.5,True
+2024,cargo_senioridade,Engenheiro de Machine Learning/ML Engineer/AI Engineer,Pleno,36,9556.166666666666,10000.5,11236.611111111111,7000.5,10000.5,True
+2024,cargo_senioridade,Arquiteto de Dados/Data Architect,Pleno,10,9334.0,10000.5,10200.5,7000.5,13000.5,False
+2024,cargo_senioridade,Professor/Pesquisador,Senior,9,9000.75,10000.5,9944.944444444445,5000.5,14000.5,False
+2024,cargo_senioridade,Cientista de Dados/Data Scientist,Pleno,230,8983.21052631579,10000.5,9291.804347826086,7000.5,10000.5,True
+2024,cargo_senioridade,Data Product Manager/ Product Manager (PM/APM/DPM/GPM/PO),Pleno,15,8857.92857142857,10000.5,9067.166666666666,7000.5,10000.5,False
+2024,cargo_senioridade,Engenheiro de Dados/Data Engineer/Data Architect,Pleno,211,8848.614130434782,10000.5,9559.73933649289,7000.5,10000.5,True
+2024,cargo_senioridade,Professor/Pesquisador,Pleno,7,7500.25,7000.5,7714.785714285715,6000.5,10000.5,False
+2024,cargo_senioridade,Analytics Engineer,Pleno,83,7265.073529411765,7000.5,8446.283132530121,7000.5,10000.5,True
+2024,cargo_senioridade,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,Pleno,49,7182.227272727273,7000.5,8592.336734693878,5000.5,10000.5,True
+2024,cargo_senioridade,Analista de Negócios/Business Analyst,Pleno,66,6667.333333333333,7000.5,7333.833333333333,5000.5,10000.5,True
+2024,cargo_senioridade,Analista de Dados/Data Analyst,Pleno,391,6636.396428571428,7000.5,7159.067774936061,5000.5,10000.5,True
+2024,cargo_senioridade,Estatístico,Pleno,7,6500.75,7000.5,6786.214285714285,5000.5,8500.5,False
+2024,cargo_senioridade,Analista de Suporte/Analista Técnico,Senior,19,6334.166666666667,7000.5,8526.815789473685,4250.5,10000.5,False
+2024,cargo_senioridade,Analista de BI/BI Analyst,Pleno,168,5846.2307692307695,5000.5,6500.497023809524,5000.5,7000.5,True
+2024,cargo_senioridade,Outra Opção,Pleno,59,5416.958333333334,5000.5,6881.847457627118,3500.5,8500.5,True
+2024,cargo_senioridade,Arquiteto de Dados/Data Architect,Junior,1,5000.5,5000.5,5000.5,5000.5,5000.5,False
+2024,cargo_senioridade,Outras Engenharias (não inclui dev),Junior,6,5000.5,5000.5,5500.5,3875.5,6500.5,False
+2024,cargo_senioridade,Cientista de Dados/Data Scientist,Junior,118,4667.333333333333,5000.5,5148.800847457627,2500.5,7000.5,True
+2024,cargo_senioridade,Estatístico,Junior,5,4500.75,5000.5,4000.5,1500.5,5000.5,False
+2024,cargo_senioridade,Analista de Negócios/Business Analyst,Junior,35,4389.694444444444,5000.5,4571.928571428572,3500.5,5000.5,True
+2024,cargo_senioridade,Engenheiro de Machine Learning/ML Engineer/AI Engineer,Junior,9,4334.166666666667,5000.5,5111.611111111111,3500.5,5000.5,False
+2024,cargo_senioridade,Engenheiro de Dados/Data Engineer/Data Architect,Junior,92,4323.419354838709,5000.5,4739.614130434783,2500.5,5000.5,True
+2024,cargo_senioridade,Analista de Suporte/Analista Técnico,Pleno,31,3937.5625,3500.5,4226.306451612903,3000.5,5000.5,True
+2024,cargo_senioridade,Analista de Dados/Data Analyst,Junior,244,3673.0545454545454,3500.5,4053.7725409836066,2500.5,5000.5,True
+2024,cargo_senioridade,Analytics Engineer,Junior,30,3667.0,3500.5,4600.5,2500.5,5000.5,True
+2024,cargo_senioridade,Data Product Manager/ Product Manager (PM/APM/DPM/GPM/PO),Junior,4,3500.5,3500.5,3875.5,3000.5,4375.5,False
+2024,cargo_senioridade,Analista de BI/BI Analyst,Junior,126,3179.3928571428573,3500.5,3484.6031746031745,2500.5,5000.5,True
+2024,cargo_senioridade,Analista de Suporte/Analista Técnico,Junior,29,2654.1923076923076,2500.5,4431.517241379311,2500.5,5000.5,False
+2024,cargo_senioridade,Outra Opção,Junior,135,2524.8658536585367,2500.5,3504.1740740740743,1500.5,3500.5,True
+2024,cargo_senioridade,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,Junior,29,2500.5,2500.5,3276.3275862068967,1500.5,3500.5,False
+2024,cargo_senioridade,Professor/Pesquisador,Junior,5,2500.5,2500.5,3600.4,1500.5,3500.5,False
+2024,forma_trabalho,Remoto,,2222,10774.618348623853,10000.5,12658.02295229523,7000.5,14000.5,True
+2024,forma_trabalho,Hibrido,,1849,10416.663875598086,10000.5,12835.287452677123,7000.5,18000.5,True
+2024,forma_trabalho,Presencial,,792,5510.17880794702,5000.5,7723.350378787879,3500.5,10000.5,True
+2024,forma_trabalho_senioridade,Hibrido,Gestao,512,19116.5,18000.5,20981.9873046875,14000.5,27500.5,True
+2024,forma_trabalho_senioridade,Remoto,Gestao,360,18522.108695652176,18000.5,19753.304166666665,14000.5,22500.5,True
+2024,forma_trabalho_senioridade,Remoto,Senior,907,13688.078125,14000.5,15447.039691289967,10000.5,18000.5,True
+2024,forma_trabalho_senioridade,Presencial,Gestao,173,13072.160714285714,14000.5,15133.468208092485,7000.5,18000.5,True
+2024,forma_trabalho_senioridade,Hibrido,Senior,549,12473.85472972973,14000.5,13957.701275045538,10000.5,18000.5,True
+2024,forma_trabalho_senioridade,Presencial,Senior,117,9174.619565217392,10000.5,9782.551282051281,7000.5,10000.5,True
+2024,forma_trabalho_senioridade,Remoto,Pleno,654,7755.9906103286385,7000.5,8639.642201834862,7000.5,10000.5,True
+2024,forma_trabalho_senioridade,Hibrido,Pleno,496,7222.611111111111,7000.5,8114.4112903225805,5000.5,10000.5,True
+2024,forma_trabalho_senioridade,Presencial,Pleno,227,5531.879746835443,5000.5,6196.533039647577,5000.5,7000.5,True
+2024,forma_trabalho_senioridade,Remoto,Junior,301,4090.0643564356437,5000.5,4498.825581395349,2500.5,5000.5,True
+2024,forma_trabalho_senioridade,Hibrido,Junior,292,3775.734693877551,3500.5,4459.393835616438,2500.5,5000.5,True
+2024,forma_trabalho_senioridade,Presencial,Junior,275,2821.1666666666665,2500.5,3445.9345454545455,1500.5,3500.5,True
+2024,genero,Masculino,,3700,10256.846153846154,10000.5,12462.400675675675,5000.5,18000.5,True
+2024,genero,Nao informado,,15,9500.625,10000.5,14467.266666666666,5250.5,16000.5,False
+2024,genero,Feminino,,1142,8626.69387755102,10000.5,10128.346760070053,5000.5,14000.5,True
+2024,genero,Outro,,6,8000.0,8500.5,13500.583333333334,7000.5,10000.5,False
+2024,nivel_ensino,Mestrado,,620,13839.956204379561,14000.5,16108.589516129032,10000.5,18000.5,True
+2024,nivel_ensino,Doutorado ou Phd,,192,13255.588235294117,14000.5,15109.890625,10000.5,18000.5,True
+2024,nivel_ensino,Pós-graduação,,1860,11279.006289308176,10000.5,13417.44435483871,7000.5,18000.5,True
+2024,nivel_ensino,Graduação/Bacharelado,,1618,8275.656593406593,10000.5,10536.970333745365,5000.5,14000.5,True
+2024,nivel_ensino,Prefiro não informar,,4,8000.0,12500.5,16375.5,5375.375,23500.625,False
+2024,nivel_ensino,Não tenho graduação formal,,77,7000.5,7000.5,9006.98051948052,3500.5,10000.5,True
+2024,nivel_ensino,Estudante de Graduação,,492,3445.0,3500.5,4721.013211382114,2500.5,7000.5,True
+2024,regiao,Nao informado,,130,20909.909090909092,22500.5,21604.403846153848,10000.5,33125.5,True
+2024,regiao,Sudeste,,2940,10487.969343065693,10000.5,12597.958673469388,7000.5,18000.5,True
+2024,regiao,Sul,,989,8699.101293103447,10000.5,10381.697168857432,5000.5,14000.5,True
+2024,regiao,Nordeste,,447,7621.401515151515,7000.5,9653.741610738254,5000.5,14000.5,True
+2024,regiao,Centro-oeste,,300,7592.040816326531,7000.5,10165.49,5000.5,14000.5,True
+2024,regiao,Norte,,57,7500.25,7000.5,8711.017543859649,3500.5,10000.5,True
+2024,regiao_senioridade,Nao informado,Gestao,35,25834.166666666668,27500.5,26357.757142857143,18000.5,37500.75,True
+2024,regiao_senioridade,Nao informado,Senior,49,22500.5,22500.5,23235.255102040817,18000.5,27500.5,True
+2024,regiao_senioridade,Sudeste,Gestao,703,19063.171328671328,18000.5,20755.87055476529,14000.5,27500.5,True
+2024,regiao_senioridade,Nao informado,Pleno,31,17500.625,18000.5,18371.467741935485,10000.5,25000.5,True
+2024,regiao_senioridade,Sul,Gestao,167,16271.202702702703,18000.5,17332.8622754491,10000.5,22500.5,True
+2024,regiao_senioridade,Centro-oeste,Gestao,60,15000.25,14000.5,16042.166666666666,10000.5,22500.5,True
+2024,regiao_senioridade,Centro-oeste,Senior,77,13158.605263157895,14000.5,14526.467532467532,10000.5,18000.5,True
+2024,regiao_senioridade,Sudeste,Senior,965,13095.964285714286,14000.5,14552.321761658031,10000.5,18000.5,True
+2024,regiao_senioridade,Nordeste,Gestao,73,13000.75,14000.5,14377.219178082192,10000.5,18000.5,True
+2024,regiao_senioridade,Nordeste,Senior,127,12688.328125,14000.5,14551.700787401574,10000.5,18000.5,True
+2024,regiao_senioridade,Norte,Senior,19,12667.5,14000.5,14711.026315789473,10000.5,18000.5,False
+2024,regiao_senioridade,Sul,Senior,336,11929.221238938053,10000.5,13065.982142857143,10000.5,14000.5,True
+2024,regiao_senioridade,Nao informado,Junior,15,8500.875,10000.5,11867.2,6000.5,12000.5,False
+2024,regiao_senioridade,Norte,Pleno,15,7666.833333333334,7000.5,7600.5,5000.5,10000.5,False
+2024,regiao_senioridade,Sudeste,Pleno,795,7547.311659192825,7000.5,8109.933962264151,5000.5,10000.5,True
+2024,regiao_senioridade,Sul,Pleno,303,6841.005319148936,7000.5,7475.747524752475,5000.5,10000.5,True
+2024,regiao_senioridade,Nordeste,Pleno,141,6707.963414634146,7000.5,7337.372340425532,5000.5,10000.5,True
+2024,regiao_senioridade,Norte,Gestao,7,6500.75,7000.5,7357.642857142857,3500.5,10500.5,False
+2024,regiao_senioridade,Centro-oeste,Pleno,92,6250.875,7000.5,7076.58152173913,5000.5,10000.5,True
+2024,regiao_senioridade,Sudeste,Junior,477,3657.3197674418607,3500.5,4101.118448637317,2500.5,5000.5,True
+2024,regiao_senioridade,Sul,Junior,183,3522.7,3500.5,3921.251366120219,2500.5,5000.5,True
+2024,regiao_senioridade,Centro-oeste,Junior,71,2968.78125,2500.5,4472.302816901409,1500.5,5000.5,True
+2024,regiao_senioridade,Norte,Junior,16,2800.2,2500.5,3219.21875,2250.5,3500.5,False
+2024,regiao_senioridade,Nordeste,Junior,106,2782.826086956522,2500.5,3613.6792452830186,1500.5,5000.5,True
+2024,senioridade,Gestao,,1045,18039.51463414634,18000.5,19590.485167464114,14000.5,27500.5,True
+2024,senioridade,Senior,,1573,12943.242256637168,14000.5,14505.913223140496,10000.5,18000.5,True
+2024,senioridade,Pleno,,1377,7259.344871794872,7000.5,8047.702977487291,5000.5,10000.5,True
+2024,senioridade,Junior,,868,3513.3076923076924,3500.5,4151.983294930876,2500.5,5000.5,True
+2024,setor_empresa,Internet/Ecommerce,,153,11500.125,10000.5,15242.35294117647,7000.5,22500.5,True
+2024,setor_empresa,Varejo,,380,11381.107142857143,10000.5,12633.40394736842,7000.5,14000.5,True
+2024,setor_empresa,Entretenimento ou Esportes,,46,11143.071428571428,10000.5,15141.815217391304,7750.5,22500.5,True
+2024,setor_empresa,Setor Público,,142,10625.34375,10000.5,12504.024647887323,5000.5,18000.5,True
+2024,setor_empresa,Tecnologia/Fábrica de Software,,942,10545.818181818182,10000.5,13025.458598726114,5000.5,18000.5,True
+2024,setor_empresa,Finanças ou Bancos,,1035,10055.173828125,10000.5,11790.842512077295,7000.5,14000.5,True
+2024,setor_empresa,Setor Alimentício,,143,10000.5,10000.5,12126.377622377622,7000.5,14000.5,True
+2024,setor_empresa,Indústria,,328,9977.51724137931,10000.5,11108.734756097561,7000.5,14000.5,True
+2024,setor_empresa,Seguros ou Previdência,,65,9619.642857142857,10000.5,11838.976923076923,7000.5,14000.5,True
+2024,setor_empresa,Setor de Energia,,82,9500.625,10000.5,12549.298780487805,5000.5,14000.5,True
+2024,setor_empresa,Área de Consultoria,,354,9235.25925925926,10000.5,11281.579096045198,5000.5,14000.5,True
+2024,setor_empresa,Filantropia/ONG's,,15,9200.7,10000.5,9867.166666666666,7000.5,12000.5,False
+2024,setor_empresa,Setor Farmaceutico,,27,9000.75,10000.5,11130.166666666666,5000.5,14000.5,False
+2024,setor_empresa,Área da Saúde,,195,8743.671428571428,10000.5,10933.838461538462,5000.5,14000.5,True
+2024,setor_empresa,Setor Imobiliário/ Construção Civil,,74,8728.09090909091,10000.5,12851.878378378378,5000.5,18000.5,True
+2024,setor_empresa,Educação,,194,8455.431818181818,10000.5,10997.925257731958,5000.5,14000.5,True
+2024,setor_empresa,Outra Opção,,332,7853.731707317073,7000.5,10538.150602409638,5000.5,14000.5,True
+2024,setor_empresa,Setor Automotivo,,55,7800.1,7000.5,9664.145454545454,5000.5,14000.5,True
+2024,setor_empresa,Agronegócios,,84,7666.833333333334,7000.5,10571.92857142857,5000.5,14000.5,True
+2024,setor_empresa,Marketing,,114,7652.347826086956,7000.5,10491.732456140351,5000.5,14000.5,True
+2024,setor_empresa,Telecomunicação,,103,7500.25,7000.5,9199.533980582524,5000.5,14000.5,True
+2024,tempo_experiencia_dados,Mais de 10 anos,,585,18139.595652173914,18000.5,20503.106837606836,14000.5,27500.5,True
+2024,tempo_experiencia_dados,de 7 a 10 anos,,542,15593.322033898305,14000.5,17804.950184501846,10000.5,22500.5,True
+2024,tempo_experiencia_dados,de 5 a 6 anos,,830,13525.371287128713,14000.5,15154.724096385542,10000.5,18000.5,True
+2024,tempo_experiencia_dados,de 3 a 4 anos,,1386,8963.23178807947,10000.5,10280.085137085138,7000.5,14000.5,True
+2024,tempo_experiencia_dados,de 1 a 2 anos,,944,5523.67578125,5000.5,6642.4459745762715,3500.5,7000.5,True
+2024,tempo_experiencia_dados,Não tenho experiência na área de dados,,230,4067.633333333333,5000.5,6520.041304347826,2500.5,10000.5,True
+2024,tempo_experiencia_dados,Menos de 1 ano,,346,3445.0,3500.5,5012.049132947976,2500.5,5000.5,True
+2025,cargo,,,727,18235.735294117647,18000.5,19772.893397524072,14000.5,27500.5,True
+2025,cargo,Engenheiro de Machine Learning/ML Engineer/AI Engineer,,106,16250.9375,18000.5,18561.872641509435,10000.5,26250.5,True
+2025,cargo,Arquiteto de Dados/Data Architect,,28,16000.0,16000.5,17714.821428571428,10000.5,22500.5,False
+2025,cargo,Data Product Manager/ Product Manager (PM/APM/DPM/GPM/PO),,33,14000.5,14000.5,17682.363636363636,10000.5,22500.5,True
+2025,cargo,Analytics Engineer,,135,12264.092105263158,14000.5,13311.611111111111,8500.5,14000.5,True
+2025,cargo,Engenheiro de Dados/Data Engineer/Data Architect,,402,11961.548076923078,10000.5,14082.609452736318,10000.5,18000.5,True
+2025,cargo,Cientista de Dados/Data Scientist,,424,11481.045801526718,10000.5,12847.205188679245,10000.5,15000.5,True
+2025,cargo,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,,106,11130.652173913044,10000.5,12892.02358490566,7000.5,14000.5,True
+2025,cargo,Outras Engenharias (não inclui dev),,26,10667.0,10000.5,11750.51923076923,5500.5,14000.5,False
+2025,cargo,Professor/Pesquisador,,16,10000.5,10000.5,12125.5,5000.5,15000.5,False
+2025,cargo,Analista de Negócios/Business Analyst,,141,7608.891304347826,7000.5,8890.570921985816,5000.5,10000.5,True
+2025,cargo,Analista de Dados/Data Analyst,,599,7419.338095238096,7000.5,8756.762938230384,5000.5,10000.5,True
+2025,cargo,Analista de BI/BI Analyst,,215,6447.585106382979,7000.5,7537.7046511627905,5000.5,10000.5,True
+2025,cargo,Estatístico,,9,5500.25,5000.5,8667.166666666666,3500.5,14000.5,False
+2025,cargo,Analista de Suporte/Analista Técnico,,55,5182.227272727273,5000.5,6482.3,2500.5,8500.5,True
+2025,cargo,Outra Opção,,206,3821.6071428571427,3500.5,6631.553398058252,2500.5,10000.5,True
+2025,cargo_senioridade,Engenheiro de Machine Learning/ML Engineer/AI Engineer,Especialista,27,27500.5,27500.5,27833.925925925927,18000.5,35000.5,False
+2025,cargo_senioridade,Arquiteto de Dados/Data Architect,Especialista,13,23750.25,22500.5,25269.80769230769,18000.5,27500.5,False
+2025,cargo_senioridade,Data Product Manager/ Product Manager (PM/APM/DPM/GPM/PO),Especialista,10,20000.0,20250.5,21650.55,15000.5,22500.5,False
+2025,cargo_senioridade,Outra Opção,Especialista,22,20000.0,20250.5,20955.06818181818,14000.5,22500.5,False
+2025,cargo_senioridade,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,Especialista,14,18667.0,18000.5,21071.964285714286,14000.5,26250.5,False
+2025,cargo_senioridade,Engenheiro de Machine Learning/ML Engineer/AI Engineer,Senior,42,18500.375,18000.5,21869.619047619046,14000.5,33125.5,True
+2025,cargo_senioridade,Engenheiro de Dados/Data Engineer/Data Architect,Especialista,62,18444.833333333332,18000.5,21589.274193548386,14000.5,22500.5,True
+2025,cargo_senioridade,,Gestao,727,18235.735294117647,18000.5,19772.893397524072,14000.5,27500.5,True
+2025,cargo_senioridade,Estatístico,Senior,1,18000.5,18000.5,18000.5,18000.5,18000.5,False
+2025,cargo_senioridade,Professor/Pesquisador,Especialista,3,18000.5,18000.5,18167.166666666668,16000.5,20250.5,False
+2025,cargo_senioridade,Cientista de Dados/Data Scientist,Especialista,72,17778.333333333332,18000.5,19639.409722222223,14000.5,22500.5,True
+2025,cargo_senioridade,Outras Engenharias (não inclui dev),Especialista,7,17000.75,18000.5,19072.0,10000.5,22750.5,False
+2025,cargo_senioridade,Analytics Engineer,Especialista,24,15600.1,14000.5,18313.0,14000.5,19125.5,False
+2025,cargo_senioridade,Analista de Negócios/Business Analyst,Especialista,18,15000.25,14000.5,15306.055555555555,10000.5,18000.5,False
+2025,cargo_senioridade,Cientista de Dados/Data Scientist,Senior,147,14766.265957446809,14000.5,15622.959183673469,10000.5,18000.5,True
+2025,cargo_senioridade,Engenheiro de Dados/Data Engineer/Data Architect,Senior,182,14566.396226415094,14000.5,16739.535714285714,10000.5,18000.5,True
+2025,cargo_senioridade,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,Senior,41,14267.1,14000.5,17585.914634146342,10000.5,22500.5,True
+2025,cargo_senioridade,Analytics Engineer,Senior,59,14100.475,14000.5,15551.347457627118,10000.5,18000.5,True
+2025,cargo_senioridade,Estatístico,Especialista,1,14000.5,14000.5,14000.5,14000.5,14000.5,False
+2025,cargo_senioridade,Analista de Dados/Data Analyst,Especialista,59,13667.25,14000.5,14847.974576271186,10000.5,18000.5,True
+2025,cargo_senioridade,Analista de BI/BI Analyst,Especialista,17,13200.7,14000.5,16000.5,10000.5,18000.5,False
+2025,cargo_senioridade,Data Product Manager/ Product Manager (PM/APM/DPM/GPM/PO),Senior,19,12500.875,14000.5,17158.447368421053,10000.5,22500.5,False
+2025,cargo_senioridade,Arquiteto de Dados/Data Architect,Senior,10,12000.0,12000.5,12500.5,10000.5,14000.5,False
+2025,cargo_senioridade,Outras Engenharias (não inclui dev),Pleno,8,12000.0,12000.5,10375.5,6500.5,14000.5,False
+2025,cargo_senioridade,Outras Engenharias (não inclui dev),Senior,6,12000.0,12000.5,12167.166666666666,10000.5,14000.5,False
+2025,cargo_senioridade,Professor/Pesquisador,Pleno,4,12000.0,12000.5,15125.5,7875.5,19250.5,False
+2025,cargo_senioridade,Analista de Dados/Data Analyst,Senior,184,10286.142857142857,10000.5,12125.505434782608,10000.5,14000.5,True
+2025,cargo_senioridade,Arquiteto de Dados/Data Architect,Pleno,3,10000.5,10000.5,10000.5,10000.5,10000.5,False
+2025,cargo_senioridade,Data Product Manager/ Product Manager (PM/APM/DPM/GPM/PO),Pleno,4,10000.5,10000.5,10250.5,9250.5,11000.5,False
+2025,cargo_senioridade,Analista de Negócios/Business Analyst,Senior,48,9565.826086956522,10000.5,10490.083333333334,7000.5,10000.5,True
+2025,cargo_senioridade,Cientista de Dados/Data Scientist,Pleno,140,9294.79411764706,10000.5,9611.217857142858,7000.5,10000.5,True
+2025,cargo_senioridade,Analista de BI/BI Analyst,Senior,59,9131.152173913044,10000.5,9576.771186440677,7000.5,10000.5,True
+2025,cargo_senioridade,Engenheiro de Dados/Data Engineer/Data Architect,Pleno,109,8840.79,10000.5,9674.811926605504,7000.5,10000.5,True
+2025,cargo_senioridade,Analytics Engineer,Pleno,41,8715.107142857143,10000.5,9415.134146341463,7000.5,10000.5,True
+2025,cargo_senioridade,Engenheiro de Machine Learning/ML Engineer/AI Engineer,Pleno,16,8000.0,8500.5,10406.75,7000.5,14000.5,False
+2025,cargo_senioridade,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,Pleno,27,7833.416666666666,7000.5,8759.75925925926,5000.5,10000.5,False
+2025,cargo_senioridade,Outra Opção,Senior,39,7800.1,7000.5,8436.397435897436,5000.5,10000.5,True
+2025,cargo_senioridade,Analista de Suporte/Analista Técnico,Senior,15,7500.25,7000.5,10500.5,5000.5,14000.5,False
+2025,cargo_senioridade,Estatístico,Pleno,3,7000.5,7000.5,11500.5,6000.5,14750.5,False
+2025,cargo_senioridade,Professor/Pesquisador,Junior,3,7000.5,7000.5,7333.833333333333,6000.5,8500.5,False
+2025,cargo_senioridade,Analista de Suporte/Analista Técnico,Pleno,20,6800.6,7000.5,7200.5,5000.5,10000.5,False
+2025,cargo_senioridade,Analista de Dados/Data Analyst,Pleno,211,6755.008771929824,7000.5,7436.518957345972,5000.5,10000.5,True
+2025,cargo_senioridade,Analista de Negócios/Business Analyst,Pleno,53,6467.433333333333,7000.5,7425.028301886792,5000.5,10000.5,True
+2025,cargo_senioridade,Analista de BI/BI Analyst,Pleno,82,6080.96,7000.5,6890.75,5000.5,7000.5,True
+2025,cargo_senioridade,Professor/Pesquisador,Senior,6,6000.0,6000.5,9500.5,5000.5,12250.5,False
+2025,cargo_senioridade,Cientista de Dados/Data Scientist,Junior,65,5666.833333333334,5000.5,6015.876923076923,3500.5,10000.5,True
+2025,cargo_senioridade,Analytics Engineer,Junior,11,5000.5,5000.5,4909.590909090909,3500.5,7000.5,False
+2025,cargo_senioridade,Engenheiro de Machine Learning/ML Engineer/AI Engineer,Junior,21,4600.7,5000.5,6238.5952380952385,3500.5,7000.5,False
+2025,cargo_senioridade,Outra Opção,Pleno,55,4455.318181818182,5000.5,5855.045454545455,2500.5,10000.5,True
+2025,cargo_senioridade,Engenheiro de Dados/Data Engineer/Data Architect,Junior,49,4389.694444444444,5000.5,4520.897959183673,3500.5,5000.5,True
+2025,cargo_senioridade,Analista de Dados/Data Analyst,Junior,145,3589.6964285714284,3500.5,3924.634482758621,2500.5,5000.5,True
+2025,cargo_senioridade,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,Junior,24,3500.5,3500.5,4750.458333333333,1500.5,7000.5,False
+2025,cargo_senioridade,Analista de BI/BI Analyst,Junior,57,3469.28125,3500.5,3833.8070175438597,2500.5,5000.5,True
+2025,cargo_senioridade,Analista de Negócios/Business Analyst,Junior,22,3000.0,3000.5,3682.318181818182,2500.5,5000.5,False
+2025,cargo_senioridade,Arquiteto de Dados/Data Architect,Junior,2,3000.0,6250.5,6250.5,4375.5,8125.5,False
+2025,cargo_senioridade,Outras Engenharias (não inclui dev),Junior,5,2833.5,2500.5,3200.5,2500.5,3500.5,False
+2025,cargo_senioridade,Analista de Suporte/Analista Técnico,Junior,20,2500.5,2500.5,2750.45,2250.5,2750.5,False
+2025,cargo_senioridade,Outra Opção,Junior,90,2158.7368421052633,2500.5,2822.6833333333334,1500.5,3500.5,True
+2025,cargo_senioridade,Estatístico,Junior,4,2000.0,2500.5,2875.5,1500.5,3875.5,False
+2025,forma_trabalho,Remoto,,1282,12234.125560538116,14000.5,14563.703588143526,7000.5,18000.5,True
+2025,forma_trabalho,Hibrido,,1276,11229.922297297297,10000.5,13613.367163009405,7000.5,18000.5,True
+2025,forma_trabalho,Presencial,,670,6634.829268292683,7000.5,9063.189552238806,3500.5,10000.5,True
+2025,forma_trabalho_senioridade,Remoto,Gestao,232,19143.071428571428,18000.5,20241.92672413793,14000.5,27500.5,True
+2025,forma_trabalho_senioridade,Hibrido,Gestao,341,19064.75,18000.5,20603.173020527858,14000.5,27500.5,True
+2025,forma_trabalho_senioridade,Remoto,Especialista,180,18640.34,18000.5,21483.87777777778,14000.5,27500.5,True
+2025,forma_trabalho_senioridade,Hibrido,Especialista,137,16519.38888888889,18000.5,18858.193430656935,14000.5,22500.5,True
+2025,forma_trabalho_senioridade,Presencial,Gestao,154,14194.0,14000.5,17227.821428571428,10000.5,22500.5,True
+2025,forma_trabalho_senioridade,Remoto,Senior,426,13536.330357142857,14000.5,15727.046948356807,10000.5,18000.5,True
+2025,forma_trabalho_senioridade,Hibrido,Senior,314,12513.692307692309,14000.5,14088.089171974523,10000.5,18000.5,True
+2025,forma_trabalho_senioridade,Presencial,Especialista,32,11750.0625,10000.5,13109.875,10000.5,14000.5,True
+2025,forma_trabalho_senioridade,Presencial,Senior,118,8667.5,10000.5,9847.966101694916,7000.5,10000.5,True
+2025,forma_trabalho_senioridade,Remoto,Pleno,310,8276.793103448275,10000.5,9077.91935483871,7000.5,10000.5,True
+2025,forma_trabalho_senioridade,Hibrido,Pleno,290,7566.481927710844,7000.5,8381.537931034483,5000.5,10000.5,True
+2025,forma_trabalho_senioridade,Presencial,Pleno,176,5772.840909090909,5000.5,6744.818181818182,3500.5,10000.5,True
+2025,forma_trabalho_senioridade,Hibrido,Junior,194,3909.181818181818,3500.5,4675.7525773195875,2500.5,7000.5,True
+2025,forma_trabalho_senioridade,Remoto,Junior,134,3869.695652173913,3500.5,4429.5970149253735,2500.5,5000.5,True
+2025,forma_trabalho_senioridade,Presencial,Junior,190,2875.125,2500.5,3424.15,1500.5,5000.5,True
+2025,genero,Masculino,,2510,11025.698181818181,10000.5,13608.287450199203,7000.5,18000.5,True
+2025,genero,Feminino,,702,9610.987012987012,10000.5,11083.834757834758,5000.5,14000.5,True
+2025,genero,Nao informado,,9,9000.75,10000.5,14000.5,3500.5,22500.5,False
+2025,genero,Outro,,7,7000.5,7000.5,7143.357142857143,3750.5,10000.5,False
+2025,nivel_ensino,Doutorado ou Phd,,132,15407.555555555555,14000.5,17462.651515151516,10000.5,22500.5,True
+2025,nivel_ensino,Mestrado,,417,15262.089285714286,14000.5,17748.744604316547,10000.5,22500.5,True
+2025,nivel_ensino,Prefiro não informar,,9,14000.5,14000.5,20278.38888888889,7000.5,35000.5,False
+2025,nivel_ensino,Pós-graduação,,1315,11814.65308988764,10000.5,14243.85855513308,10000.5,18000.5,True
+2025,nivel_ensino,Não tenho graduação formal,,57,9429.214285714286,10000.5,12930.342105263158,3500.5,18000.5,True
+2025,nivel_ensino,Graduação/Bacharelado,,1003,8928.695945945947,10000.5,11341.986041874377,5000.5,14000.5,True
+2025,nivel_ensino,Estudante de Graduação,,295,3209.125,3500.5,4681.84406779661,1500.5,5000.5,True
+2025,regiao,Nao informado,,107,17500.625,18000.5,21009.920560747665,10000.5,35000.5,True
+2025,regiao,Sudeste,,2025,11048.48355263158,10000.5,13383.723703703703,7000.5,18000.5,True
+2025,regiao,Centro-oeste,,221,10000.5,10000.5,12631.737556561086,5000.5,18000.5,True
+2025,regiao,Norte,,36,10000.5,10000.5,12403.263888888889,3500.5,18000.5,True
+2025,regiao,Sul,,510,9926.444444444445,10000.5,12081.885294117646,5000.5,14000.5,True
+2025,regiao,Nordeste,,329,8774.14,10000.5,10223.910334346505,5000.5,14000.5,True
+2025,regiao_senioridade,Nao informado,Especialista,11,31667.5,35000.5,27909.727272727272,18000.5,37500.75,False
+2025,regiao_senioridade,Nao informado,Senior,34,22500.5,22500.5,24632.95588235294,14000.5,35000.5,True
+2025,regiao_senioridade,Norte,Especialista,3,22500.5,22500.5,23833.833333333332,18250.5,28750.5,False
+2025,regiao_senioridade,Centro-oeste,Especialista,17,21250.75,22500.5,23500.617647058825,14000.5,35000.5,False
+2025,regiao_senioridade,Sudeste,Gestao,478,19555.666666666668,18000.5,20978.57322175732,14000.5,27500.5,True
+2025,regiao_senioridade,Nao informado,Gestao,34,17334.0,18000.5,21544.70588235294,14000.5,35000.5,True
+2025,regiao_senioridade,Sudeste,Especialista,245,17300.675,18000.5,19547.469387755104,14000.5,22500.5,True
+2025,regiao_senioridade,Centro-oeste,Gestao,51,16400.9,18000.5,17961.303921568626,10000.5,22500.5,True
+2025,regiao_senioridade,Sul,Especialista,56,16400.9,18000.5,18259.446428571428,10000.5,22500.5,True
+2025,regiao_senioridade,Nordeste,Especialista,17,16334.25,18000.5,16500.5,14000.5,18000.5,False
+2025,regiao_senioridade,Norte,Senior,12,16000.0,16000.5,18667.25,13000.5,18000.5,False
+2025,regiao_senioridade,Sul,Gestao,97,15647.14705882353,14000.5,17830.44845360825,10000.5,22500.5,True
+2025,regiao_senioridade,Nordeste,Senior,86,12800.8,14000.5,13924.93023255814,10000.5,18000.5,True
+2025,regiao_senioridade,Nordeste,Gestao,63,12625.84375,14000.5,14540.222222222223,7000.5,18000.5,True
+2025,regiao_senioridade,Sul,Senior,140,12308.615384615385,14000.5,13739.796428571428,10000.5,14000.5,True
+2025,regiao_senioridade,Sudeste,Senior,526,11896.39896373057,10000.5,13737.200570342206,10000.5,18000.5,True
+2025,regiao_senioridade,Centro-oeste,Senior,60,11750.0625,10000.5,14617.191666666668,9250.5,18000.5,True
+2025,regiao_senioridade,Nao informado,Pleno,20,10667.0,10000.5,16750.55,7000.5,27500.5,False
+2025,regiao_senioridade,Norte,Gestao,4,8000.0,12500.5,13250.375,5375.375,20375.5,False
+2025,regiao_senioridade,Centro-oeste,Pleno,53,7700.15,7000.5,8208.047169811322,5000.5,10000.5,True
+2025,regiao_senioridade,Sudeste,Pleno,464,7542.6016949152545,7000.5,8011.275862068966,5000.5,10000.5,True
+2025,regiao_senioridade,Sul,Pleno,135,7447.644736842105,7000.5,8589.388888888889,5000.5,10000.5,True
+2025,regiao_senioridade,Nordeste,Pleno,94,7200.4,7000.5,7596.244680851064,5000.5,10000.5,True
+2025,regiao_senioridade,Norte,Pleno,10,6000.0,6000.5,7100.5,3875.5,7000.5,False
+2025,regiao_senioridade,Sudeste,Junior,312,3766.191489361702,3500.5,4301.772435897436,2500.5,5000.5,True
+2025,regiao_senioridade,Centro-oeste,Junior,40,3429.142857142857,3500.5,4100.475,2250.5,5000.5,True
+2025,regiao_senioridade,Sul,Junior,82,3334.0,3500.5,3982.1951219512193,2500.5,5000.5,True
+2025,regiao_senioridade,Nordeste,Junior,69,2861.25,2500.5,3703.376811594203,1500.5,5000.5,True
+2025,regiao_senioridade,Norte,Junior,7,2750.25,2500.5,3857.5,1500.25,3500.5,False
+2025,regiao_senioridade,Nao informado,Junior,8,2000.0,3250.5,4500.375,1250.375,7750.5,False
+2025,senioridade,Gestao,,727,18235.735294117647,18000.5,19772.893397524072,14000.5,27500.5,True
+2025,senioridade,Especialista,,349,17325.66875,18000.5,19685.348137535817,14000.5,22500.5,True
+2025,senioridade,Senior,,858,12357.346534653465,14000.5,14318.69696969697,10000.5,18000.5,True
+2025,senioridade,Pleno,,776,7505.40206185567,7000.5,8288.51675257732,5000.5,10000.5,True
+2025,senioridade,Junior,,518,3500.5,3500.5,4152.993243243243,2500.5,5000.5,True
+2025,setor_empresa,Filantropia/ONG's,,22,13334.0,14000.5,13841.431818181818,7000.5,18000.5,False
+2025,setor_empresa,Internet/Ecommerce,,105,12625.84375,14000.5,14976.728571428572,7000.5,18000.5,True
+2025,setor_empresa,Finanças ou Bancos,,598,11863.979591836734,10000.5,14426.938127090301,7000.5,18000.5,True
+2025,setor_empresa,Entretenimento ou Esportes,,43,11750.0625,10000.5,15186.581395348838,7000.5,18000.5,True
+2025,setor_empresa,Tecnologia/Fábrica de Software,,563,11509.213636363636,10000.5,14244.7513321492,7000.5,18000.5,True
+2025,setor_empresa,Área de Consultoria,,285,11492.664179104479,10000.5,14428.591228070176,7000.5,18000.5,True
+2025,setor_empresa,Setor Alimentício,,72,11000.25,10000.5,12597.736111111111,5000.5,15000.5,True
+2025,setor_empresa,Setor Farmaceutico,,17,11000.25,10000.5,12529.941176470587,5000.5,18000.5,False
+2025,setor_empresa,Varejo,,181,10812.796875,10000.5,12547.477900552487,7000.5,14000.5,True
+2025,setor_empresa,Área da Saúde,,128,10452.0,10000.5,12742.6953125,7000.5,18000.5,True
+2025,setor_empresa,Seguros ou Previdência,,43,10235.735294117647,10000.5,11744.67441860465,7000.5,14000.5,True
+2025,setor_empresa,Setor de Energia,,58,10182.272727272728,10000.5,12612.577586206897,5000.5,17000.5,True
+2025,setor_empresa,Agronegócios,,66,9895.263157894737,10000.5,10803.530303030304,5500.5,14000.5,True
+2025,setor_empresa,Telecomunicação,,75,9667.25,10000.5,10747.18,5000.5,14000.5,True
+2025,setor_empresa,Setor Público,,136,9576.363636363636,10000.5,11721.088235294117,7000.5,14000.5,True
+2025,setor_empresa,Setor Automotivo,,53,9500.625,10000.5,11283.509433962265,5000.5,14000.5,True
+2025,setor_empresa,Indústria,,238,9482.111111111111,10000.5,11368.151260504203,5000.5,14000.5,True
+2025,setor_empresa,Outra Opção,,243,9163.5,10000.5,11549.895061728395,5000.5,14000.5,True
+2025,setor_empresa,Educação,,163,9137.079545454546,10000.5,11319.521472392638,5000.5,14000.5,True
+2025,setor_empresa,Marketing,,93,8963.722222222223,10000.5,10489.747311827958,5000.5,14000.5,True
+2025,setor_empresa,Setor Imobiliário/ Construção Civil,,46,7143.285714285714,7000.5,11337.489130434782,5000.5,14000.5,True
+2025,tempo_experiencia_dados,Mais de 10 anos,,440,20000.0,20250.5,21806.235227272726,14000.5,27500.5,True
+2025,tempo_experiencia_dados,de 7 a 10 anos,,417,17161.203703703704,18000.5,19459.780575539568,14000.5,22500.5,True
+2025,tempo_experiencia_dados,de 5 a 6 anos,,650,13200.7,14000.5,15008.97153846154,10000.5,18000.5,True
+2025,tempo_experiencia_dados,de 3 a 4 anos,,814,9415.095057034221,10000.5,10662.05221130221,7000.5,14000.5,True
+2025,tempo_experiencia_dados,de 1 a 2 anos,,511,5641.400763358779,5000.5,6967.232876712329,3500.5,10000.5,True
+2025,tempo_experiencia_dados,Não tenho experiência na área de dados,,178,4880.56,5000.5,7781.387640449439,2500.5,10000.5,True
+2025,tempo_experiencia_dados,Menos de 1 ano,,218,3406.0,3500.5,4697.727064220184,1500.5,5000.5,True
