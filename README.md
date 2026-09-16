@@ -1,41 +1,11 @@
 # Tech Challenge Fase 3 - Big Data & Analytics
 
+giovanna zambon gennari palumbo
+nathan ramos tanabe
+
 Solução de Engenharia de Dados e Analytics sobre a pesquisa **State of Data
 Brasil** (Data Hackers + Bain & Company), com pipeline em camadas
 Bronze/Silver/Gold na AWS usando S3, Glue (PySpark), Glue Data Catalog e Athena.
-
-## Estrutura do repositório
-
-```
-tech-challenge-fase3/
-├── config/
-│   └── mapeamento_colunas.json      Mapeamento canônico das colunas das 3 edições
-├── src/sod/
-│   └── mapeamento.py                Núcleo de regras (usado pelo Glue e pelo pandas)
-├── scripts/
-│   ├── 00_explorar_schema.py        Inventário de colunas + validação do mapeamento
-│   ├── glue/
-│   │   ├── job_01_bronze_para_silver.py
-│   │   └── job_02_silver_para_gold.py
-│   └── local/
-│       ├── pipeline_local.py        Espelho do pipeline em pandas (iteração rápida)
-│       └── gerar_graficos.py        Gera os PNGs da apresentação
-├── sql/
-│   ├── 01_ddl_athena.sql            Database e tabelas externas
-│   └── 02_consultas_analiticas.sql  Uma consulta por pergunta do enunciado
-├── notebooks/
-│   └── analises_glue_notebook.ipynb Análises em Spark SQL + gráficos
-├── diagrams/
-│   └── arquitetura_aws.drawio       Diagrama da arquitetura (abrir no Draw.io)
-├── presentation/
-│   ├── state_of_data_executivo.pptx Material executivo (20 slides)
-│   ├── state_of_data_executivo.pdf  Versão PDF
-│   ├── arquitetura_aws.png          Diagrama renderizado para o slide
-│   └── roteiro_apresentacao.md      Estrutura slide a slide do material executivo
-└── tests/
-    ├── test_mapeamento.py           42 testes do núcleo de regras
-    └── gerar_amostra_sintetica.py   CSVs falsos para testar o pipeline sem os dados reais
-```
 
 ## Modelo de dados
 
